@@ -1,0 +1,4 @@
+{
+  "enableCMake": true,
+  "sourceDirectory": "dependencies\\glm"
+}

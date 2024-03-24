@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Dependencies",
+    "\\Dependencies\\glm",
+    "\\HelloTriangle",
+    "\\HelloTriangle\\HelloTriangle",
+    "\\HelloTriangle\\shaders"
+  ],
+  "SelectedNode": "\\HelloTriangle\\HelloTriangle\\Source.cpp",
+  "PreviewInSolutionExplorer": false
+}
