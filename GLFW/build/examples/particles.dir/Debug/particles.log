@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/vitor/Documents/GitHub/CompurtacaoGrafica/GLFW/examples/CMakeLists.txt
+  particles.c
+  tinycthread.c
+  getopt.c
+  Gerando Código...
+  particles.vcxproj -> C:\Users\vitor\Documents\GitHub\CompurtacaoGrafica\GLFW\build\examples\Debug\particles.exe

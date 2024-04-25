@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/vitor/Documents/GitHub/CompurtacaoGrafica/GLFW/tests/CMakeLists.txt
+  threads.c
+  tinycthread.c
+  Gerando Código...
+  threads.vcxproj -> C:\Users\vitor\Documents\GitHub\CompurtacaoGrafica\GLFW\build\tests\Debug\threads.exe

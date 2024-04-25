@@ -1,0 +1,10 @@
+^C:\USERS\VITOR\DOCUMENTS\GITHUB\COMPURTACAOGRAFICA\GLFW\BUILD\CMAKEFILES\A8E84340597ADF914FD33C55099016AE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/vitor/Documents/GitHub/CompurtacaoGrafica/GLFW -BC:/Users/vitor/Documents/GitHub/CompurtacaoGrafica/GLFW/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/vitor/Documents/GitHub/CompurtacaoGrafica/GLFW/build/GLFW.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
